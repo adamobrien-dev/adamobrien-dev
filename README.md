@@ -1,4 +1,4 @@
-# Hey, I'm Adam O'Brien
+# Adam O'Brien
 
 Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of AI, automation, and design in Vancouver 
 
@@ -31,7 +31,7 @@ Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of A
 
 ---
 
-### 🌐 Connect
+### Connect
 hi@adamobrien.dev  
 [@jobsyconnect](https://x.com/jobsyconnect)  
 [Instagram](https://instagram.com/jobsyconnect)  
