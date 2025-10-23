@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Adam O'Brien
+# Hey, I'm Adam O'Brien
 
 Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of AI, automation, and design in Vancouver 🇨🇦  
 
-### 🚀 What I’m Building
+### What I’m Building
 | Project | Description | Stack |
 |----------|--------------|--------|
 | [AI Insight API](https://github.com/adamobrien-dev/ai-insight-api) | FastAPI-powered AI analysis API for developers | FastAPI · OpenAI · Python |
@@ -14,7 +14,7 @@ Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of A
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 **Languages:** TypeScript, Python, SQL  
 **Frameworks:** React, Next.js, FastAPI  
 **Cloud:** AWS, Supabase, Vercel  
@@ -23,20 +23,20 @@ Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of A
 
 ---
 
-### 🎯 Currently
-- 🔹 Shipping [`AI Insight API`](https://github.com/adamobrien-dev/ai-insight-api)
-- 🔹 Designing my new portfolio site on [adamobrien.dev](https://adamobrien.dev)
-- 🔹 Running experiments with prop firm trading bots
-- 🔹 Building the early MVP for **SetSniffer**
+### Currently
+-  Shipping [`AI Insight API`](https://github.com/adamobrien-dev/ai-insight-api)
+-  Designing my new portfolio site on [adamobrien.dev](https://adamobrien.dev)
+-  Running experiments with prop firm trading bots
+-  Building the early MVP for **SetSniffer**
 
 ---
 
 ### 🌐 Connect
-📧 hi@adamobrien.dev  
-🐦 [@jobsyconnect](https://x.com/jobsyconnect)  
-📸 [Instagram](https://instagram.com/jobsyconnect)  
-🎵 [TikTok](https://tiktok.com/@jobsyconnect)
+hi@adamobrien.dev  
+[@jobsyconnect](https://x.com/jobsyconnect)  
+[Instagram](https://instagram.com/jobsyconnect)  
+[TikTok](https://tiktok.com/@jobsyconnect)
 
 ---
 
-💡 _“Build fast. Ship often. Learn publicly.”_
+ _“Build fast. Ship often. Learn publicly.”_
