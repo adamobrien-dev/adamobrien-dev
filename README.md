@@ -1,6 +1,6 @@
 # Adam O'Brien
 
-Founder @ [Tradecam]([https://tradecamai.vercel.app) | Building products at the intersection of AI, automation, and design in Vancouver 
+Founder @ [Tradecam](https://tradecamai.vercel.app) | Building products at the intersection of AI, automation, and design in Vancouver 
 
 ### What I’m Building
 | Project | Description | Stack |
