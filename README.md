@@ -33,9 +33,7 @@ Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of A
 
 ### Connect
 hi@adamobrien.dev  
-[@jobsyconnect](https://x.com/jobsyconnect)  
-[Instagram](https://instagram.com/jobsyconnect)  
-[TikTok](https://tiktok.com/@jobsyconnect)
+[@adamobriendev](https://x.com/adamobriendev)
 
 ---
 
