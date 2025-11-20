@@ -1,6 +1,6 @@
 # Adam O'Brien
 
-Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of AI, automation, and design in Vancouver 
+Founder @ [Tradecam]([https://jobsy.ie](https://tradecamai.vercel.app) | Building products at the intersection of AI, automation, and design in Vancouver 
 
 ### What I’m Building
 | Project | Description | Stack |
