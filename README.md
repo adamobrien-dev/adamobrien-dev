@@ -6,8 +6,8 @@ Founder @ [Jobsy](https://jobsy.ie) | Building products at the intersection of A
 | Project | Description | Stack |
 |----------|--------------|--------|
 | [AI Insight API](https://github.com/adamobrien-dev/ai-insight-api) | FastAPI-powered AI analysis API for developers | FastAPI · OpenAI · Python |
-| TradeCam | AI chart analysis & trading insights | React Native · Firebase |
-| Trollie | Canadian grocery savings & meal planner | Supabase · React · Tailwind |
+| [TradeCam](https://tradecamai.vercel.app) | AI chart analysis & trading insights | React Native · Firebase |
+| [Trollie](https://www.trollie.ca) | Canadian grocery savings & meal planner | Supabase · React · Tailwind |
 | SetSniffer | Track-ID community for DJ sets | Expo · Supabase · AudioML |
 | Real Trader Bot | Human-style trading bot | MT5 · Python · ML |
 | ProDayTrader EA | Sniper-style day trading Expert Advisor | MQL5 · VWAP · ATR Logic |
